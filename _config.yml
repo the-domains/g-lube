@@ -1,4 +1,3 @@
-layout_spectrum: 0.8320030991453677
 typography_spectrum: 0.0009704860858619213
 color:
   brandStrength: 0.5612052762880921
@@ -6,9 +5,11 @@ color:
   saturation: 0.10645667626522481
   rhythmicContrast: 0.34390665008686483
   brandColors:
-    - '#6B0000'
-    - '#2D818C'
-    - '#F95200'
-    - '#FDFDC2'
-    - '#FFB727'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.8320030991453677
 name: G-Lube
+title: G - LUBE
